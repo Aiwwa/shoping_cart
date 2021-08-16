@@ -1,3 +1,5 @@
+Project in progress.
+
 # shopping_cart
 
 ## Project setup
